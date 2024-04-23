@@ -1,0 +1,11 @@
+D:\Mssql Server\VScode\SecondSemester\bin\Debug\SecondSemester.exe.config
+D:\Mssql Server\VScode\SecondSemester\bin\Debug\SecondSemester.exe
+D:\Mssql Server\VScode\SecondSemester\bin\Debug\SecondSemester.pdb
+D:\Mssql Server\VScode\SecondSemester\obj\Debug\SecondSemester.csproj.AssemblyReference.cache
+D:\Mssql Server\VScode\SecondSemester\obj\Debug\SecondSemester.Form1.resources
+D:\Mssql Server\VScode\SecondSemester\obj\Debug\SecondSemester.Properties.Resources.resources
+D:\Mssql Server\VScode\SecondSemester\obj\Debug\SecondSemester.csproj.GenerateResource.cache
+D:\Mssql Server\VScode\SecondSemester\obj\Debug\SecondSemester.csproj.CoreCompileInputs.cache
+D:\Mssql Server\VScode\SecondSemester\obj\Debug\SecondSemester.exe
+D:\Mssql Server\VScode\SecondSemester\obj\Debug\SecondSemester.pdb
+D:\Mssql Server\VScode\SecondSemester\obj\Debug\SecondSemester.AddOrModifyForm.resources
